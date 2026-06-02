@@ -41,7 +41,7 @@ import { CommonModule } from '@angular/common';
 
         <div class="hero-stats animate-fade-up delay-400">
           <div class="stat">
-            <span class="stat-num">7+</span>
+            <span class="stat-num">5+</span>
             <span class="stat-label">Years Exp</span>
           </div>
           <div class="stat-divider"></div>
@@ -51,7 +51,7 @@ import { CommonModule } from '@angular/common';
           </div>
           <div class="stat-divider"></div>
           <div class="stat">
-            <span class="stat-num">10+</span>
+            <span class="stat-num">7+</span>
             <span class="stat-label">Projects</span>
           </div>
         </div>

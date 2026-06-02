@@ -36,7 +36,7 @@ import { CommonModule } from '@angular/common';
             </h2>
 
             <p class="about-text">
-              I'm a results-driven Software Developer with <strong>7+ years of experience</strong>
+              I'm a results-driven Software Developer with <strong>5+ years of experience</strong>
               crafting complex, scalable web and mobile applications. My expertise lies in the
               Angular and Ionic ecosystems, with strong secondary skills in ReactJS and Node.js.
             </p>
