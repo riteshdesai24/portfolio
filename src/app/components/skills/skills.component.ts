@@ -219,7 +219,7 @@ export class SkillsComponent implements AfterViewInit {
       skills: [
         { name: 'Angular', level: 95 },
         { name: 'Ionic', level: 92 },
-        { name: 'ReactJS', level: 80 },
+        { name: 'ReactJS', level: 50 },
       ]
     },
     {
@@ -235,25 +235,25 @@ export class SkillsComponent implements AfterViewInit {
       icon: '🔧',
       name: 'Backend',
       skills: [
-        { name: 'Node.js', level: 78 },
-        { name: 'Python / Django', level: 70 },
-        { name: 'REST APIs', level: 90 },
+        { name: 'Node.js', level: 75 },
+        { name: 'Python / Django', level: 40 },
+        { name: 'REST APIs', level: 75 },
       ]
     },
     {
       icon: '🗃️',
       name: 'Database',
       skills: [
-        { name: 'MongoDB', level: 82 },
-        { name: 'MySQL', level: 78 },
+        { name: 'MongoDB', level: 50 },
+        { name: 'MySQL', level: 30 },
       ]
     },
     {
       icon: '🏛️',
       name: 'Architecture',
       skills: [
-        { name: 'Microservices', level: 85 },
-        { name: 'Distributed Systems', level: 82 },
+        { name: 'Microservices', level: 30 },
+        { name: 'Distributed Systems', level: 30 },
         { name: 'CI/CD Pipelines', level: 80 },
       ]
     },
