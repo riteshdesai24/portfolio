@@ -319,6 +319,7 @@ import { CommonModule } from '@angular/common';
       position: relative;
       z-index: 1;
       opacity: 0;
+      margin-left: -60px;
     }
 
     .code-window {
